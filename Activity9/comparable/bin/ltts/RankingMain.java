@@ -1,4 +1,4 @@
-package comparable.PlayerRanking;
+package act9.comparable.ltts;
 
 import java.util.*;   
 import java.util.Scanner;
